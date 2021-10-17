@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jsypower
+- 👀 I’m interested in Information Security, Exploitation Development, Cryptography, Privacy.
+- 📫 How to reach me
+  - IRC: Libera.chat/nihlander
